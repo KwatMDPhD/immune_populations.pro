@@ -1,0 +1,97 @@
+{
+  "ov": true,
+  "gr_po": {
+    "Granulocyte": ["Low-density neutrophils", "Low-density basophils"],
+    "Macrophage": [
+      "Classical monocytes",
+      "Intermediate monocytes",
+      "Non classical monocytes",
+      "Plasmacytoid dendritic cells",
+      "Myeloid dendritic cells"
+    ],
+    "Monocyte": [
+      "Classical monocytes",
+      "Intermediate monocytes",
+      "Non classical monocytes"
+    ],
+    "Dendritic Cell": [
+      "Plasmacytoid dendritic cells",
+      "Myeloid dendritic cells"
+    ],
+    "T Cell": [
+      "Naive CD4 T cells",
+      "Terminal effector CD4 T cells",
+
+      "Naive CD8 T cells",
+      "Central memory CD8 T cell",
+      "Effector memory CD8 T cells",
+      "Terminal effector CD8 T cells",
+
+      "Vd2 gd T cells",
+      "Non-Vd2 gd T cells",
+
+      "Th1 cells",
+      "Th1/Th17 cells",
+      "Th17 cells",
+      "Th2 cells",
+
+      "Follicular helper T cells",
+
+      "T regulatory cells",
+
+      "MAIT cells"
+    ],
+    "CD4 T Cell": ["Naive CD4 T cells", "Terminal effector CD4 T cells"],
+    "CD8 T Cell": [
+      "Naive CD8 T cells",
+      "Central memory CD8 T cell",
+      "Effector memory CD8 T cells",
+      "Terminal effector CD8 T cells"
+    ],
+    "Gamma delta T Cell": ["Vd2 gd T cells", "Non-Vd2 gd T cells"],
+    "T Helper Cell": [
+      "Th1 cells",
+      "Th1/Th17 cells",
+      "Th17 cells",
+      "Th2 cells",
+
+      "Follicular helper T cells",
+
+      "T regulatory cells"
+    ],
+    "B Cell": [
+      "Naive B cells",
+      "Non-switched memory B cells",
+      "Switched memory B cells",
+      "Exhausted B cells",
+      "Plasmablasts"
+    ],
+    "Naive Cell": ["Naive CD4 T cells", "Naive CD8 T cells", "Naive B cells"],
+    "Naive T Cell": ["Naive CD4 T cells", "Naive CD8 T cells"],
+    "Memory Cell": [
+      "Central memory CD8 T cell",
+      "Effector memory CD8 T cells",
+      "Terminal effector CD4 T cells",
+      "Terminal effector CD8 T cells",
+      "Switched memory B cells"
+    ],
+    "Memory T Cell": [
+      "Central memory CD8 T cell",
+      "Effector memory CD8 T cells",
+      "Terminal effector CD4 T cells",
+      "Terminal effector CD8 T cells"
+    ],
+    "Terminal Effector T Cell": [
+      "Terminal effector CD4 T cells",
+      "Terminal effector CD8 T cells",
+
+      "Vd2 gd T cells",
+      "Non-Vd2 gd T cells"
+    ],
+    "Memory B Cell": [
+      "Switched memory B cells",
+      "Non-switched memory B cells",
+      "Exhausted B cells"
+    ]
+  }
+}
