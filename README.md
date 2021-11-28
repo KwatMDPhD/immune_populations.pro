@@ -8,11 +8,7 @@ Download and prepare immune population data for analyses :policeman:
 
 ### Characterized 29 human PBMC cell types (long and short names).
 
-![image.png](attachment:07dd7b29-658d-4210-bb4e-2484a4e1103c.png)
-
-![1-s2.0-S2211124719300592-fx1_lrg.jpg](attachment:66896090-ef64-464f-89c1-56eca1f9c302.jpg)
-
-![image.png](attachment:07dd7b29-658d-4210-bb4e-2484a4e1103c.png)
+![]
 
 ---
 
