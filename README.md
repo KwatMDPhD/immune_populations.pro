@@ -14,7 +14,7 @@ Download and prepare immune population data for analyses :policeman:
 
 ## Howdy :wave: :cowboy_hat_face:
 
-To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/immune_population.pro/issues/new/choose).
+To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/get_immune_population.pro/issues/new/choose).
 
 ---
 
