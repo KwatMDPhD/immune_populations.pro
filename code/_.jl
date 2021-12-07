@@ -12,8 +12,11 @@ SE = LeanProject.read_setting(se)
 # ---
 
 using DataFrames
+using StatsBase
+using PlotlyJS
 
 using DictExtension
+using FinalFigure
 using Gene
 using PandasAccess
 using PathExtension
