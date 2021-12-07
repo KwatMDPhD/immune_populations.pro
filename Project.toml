@@ -1,7 +1,5 @@
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
-Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DictExtension = "0f7716a5-5f77-4abc-9223-ccb88496a673"
 FinalFigure = "99c8cfd0-9233-4d48-b167-a54679e170ff"
 Gene = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"

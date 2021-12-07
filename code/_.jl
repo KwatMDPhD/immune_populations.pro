@@ -11,17 +11,12 @@ SE = LeanProject.read_setting(se)
 
 # ---
 
-using DataFrames
-using StatsBase
-using PlotlyJS
+using PyCall
 
 using DictExtension
-using FinalFigure
 using Gene
 using PandasAccess
 using PathExtension
 using TableAccess
-
-using PyCall
 
 kwat = pyimport("kwat")
