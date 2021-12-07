@@ -11,7 +11,10 @@ SE = LeanProject.read_setting(se)
 
 # ---
 
+using DataFrames
+
 using DictExtension
+using Gene
 using PandasAccess
 using PathExtension
 using TableAccess
@@ -19,5 +22,3 @@ using TableAccess
 using PyCall
 
 kwat = pyimport("kwat")
-
-using Gene
