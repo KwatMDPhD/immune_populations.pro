@@ -1,6 +1,3 @@
-# ==============================================================================
-# Lean Project
-# ==============================================================================
 import itertools
 import os
 import re
@@ -32,3 +29,5 @@ PAC = os.path.join(PAR, "code")
 PAO = os.path.join(PAR, "output")
 
 SE = kwat.json.read(se)
+
+# ---
