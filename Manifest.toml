@@ -130,9 +130,9 @@ version = "1.3.0"
 
 [[deps.DataStructures]]
 deps = ["Compat", "InteractiveUtils", "OrderedCollections"]
-git-tree-sha1 = "7d9d316f04214f7efdbb6398d545446e246eff02"
+git-tree-sha1 = "3daef5523dd2e769dad2365274f760ff5f282c7d"
 uuid = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
-version = "0.18.10"
+version = "0.18.11"
 
 [[deps.DataValueInterfaces]]
 git-tree-sha1 = "bfc1187b79289637fa0ef6d4436ebdfe6905cbd6"
@@ -335,7 +335,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "DictExtension", "IJulia", "PathExtension", "Pkg", "Revise", "StringExtension", "TemplateExtension", "VectorExtension"]
-git-tree-sha1 = "a08ed1ddf07b5e92e72cba9b226178b0c8694f28"
+git-tree-sha1 = "ea871007d34f986cfec3f9693a5e8e5b10f2137c"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -480,7 +480,7 @@ version = "2.1.2"
 
 [[deps.PathExtension]]
 deps = ["BenchmarkTools", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "011ccaf19b6535832e2e91c992135dd738f90505"
+git-tree-sha1 = "eb2e107cb467a4020f5f68f59f80e5f07063189c"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PathExtension.jl"
 uuid = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
@@ -671,7 +671,7 @@ uuid = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
 
 [[deps.TemplateExtension]]
 deps = ["BenchmarkTools", "Revise", "StringExtension", "UUIDs", "VectorExtension"]
-git-tree-sha1 = "d48fc61f6eb1232706d46014fc82c2f6cd9ed0bb"
+git-tree-sha1 = "8deaf01cee7bbc4d6b969f0b8db8b500dd403334"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/TemplateExtension.jl"
 uuid = "817b9ba7-9bcf-4fee-a3ef-e2b6f93e2810"
