@@ -227,7 +227,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[deps.Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "69969a2469746b9a810f4dd7b6d8bc940ae62265"
+git-tree-sha1 = "f68eee3d248e311099b2419cf788a0fbebe62afd"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
@@ -335,7 +335,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "DictExtension", "IJulia", "PathExtension", "Pkg", "Revise", "StringExtension", "TemplateExtension", "VectorExtension"]
-git-tree-sha1 = "40ab88ea7dc38fad9860dd66eedb71e6f7fa57df"
+git-tree-sha1 = "a08ed1ddf07b5e92e72cba9b226178b0c8694f28"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -480,7 +480,7 @@ version = "2.1.2"
 
 [[deps.PathExtension]]
 deps = ["BenchmarkTools", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "786ba3c71f90b6cd7c738c8964e9c76ecc13defe"
+git-tree-sha1 = "011ccaf19b6535832e2e91c992135dd738f90505"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PathExtension.jl"
 uuid = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
@@ -629,7 +629,7 @@ version = "0.33.13"
 
 [[deps.StringExtension]]
 deps = ["BenchmarkTools", "Revise", "VectorExtension"]
-git-tree-sha1 = "b9d6a64aa99cd17c41b2ce1f893d69f03ea08e91"
+git-tree-sha1 = "3664f7a73a6b5f68b74455d526366440478f5381"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/StringExtension.jl"
 uuid = "e56870c1-e945-4548-a787-b524e22fcae8"
@@ -671,7 +671,7 @@ uuid = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
 
 [[deps.TemplateExtension]]
 deps = ["BenchmarkTools", "Revise", "StringExtension", "UUIDs", "VectorExtension"]
-git-tree-sha1 = "ceb3f1bd6ae6acbab0074f8241a805398dbb9529"
+git-tree-sha1 = "d48fc61f6eb1232706d46014fc82c2f6cd9ed0bb"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/TemplateExtension.jl"
 uuid = "817b9ba7-9bcf-4fee-a3ef-e2b6f93e2810"
