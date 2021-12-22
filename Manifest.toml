@@ -460,7 +460,7 @@ version = "1.5.3"
 
 [[deps.PandasAccess]]
 deps = ["BenchmarkTools", "DataFrames", "Pandas", "PyCall", "Revise"]
-git-tree-sha1 = "0b8889866af0351cfd2b1361ed021f170187c304"
+git-tree-sha1 = "1e064083a8f76de4e2fdecb314b75b68b7f9fbc4"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PandasAccess.jl"
 uuid = "c5b57302-9b54-40e2-8102-8554cda0a655"
