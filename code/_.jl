@@ -17,10 +17,6 @@ SE = LeanProject.read_setting(se)
 
 using PyCall
 
-using DictExtension
-using Gene
-using PandasAccess
-using PathExtension
-using TableAccess
+using OnePiece
 
 kwat = pyimport("kwat")
