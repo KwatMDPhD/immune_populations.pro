@@ -1,33 +1,46 @@
-import itertools
-import os
-import re
+import itertools  # isort: skip
+import os  # isort: skip
+import re  # isort: skip
 
-import kwat
-import numpy as np
-import pandas as pd
-from plotly.io import renderers
+import numpy as np  # isort: skip
+import pandas as pd  # isort: skip
+import plotly as pl  # isort: skip
 
-itertools
-re
-np
-pd
 
-renderers.default = "svg"
+import kwat  # isort: skip
 
+# ========================
+from os import readlink
+from os.path import dirname, islink, join
+
+
+def get_project_path(se):
+
+    if islink(se):
+
+        se = readlink(se)
+
+    par = dirname(dirname(se))
+
+    pai = join(par, "input", "")
+
+    pac = join(par, "code", "")
+
+    pao = join(par, "output", "")
+
+    return par, pai, pac, pao
+
+
+# ========================
 se = os.path.join("..", "input", "setting.json")
 
-if os.path.islink(se):
-
-    se = os.readlink(se)
-
-PAR = os.path.dirname(os.path.dirname(se))
-
-PAI = os.path.join(PAR, "input")
-
-PAC = os.path.join(PAR, "code")
-
-PAO = os.path.join(PAR, "output")
+PAR, PAI, PAC, PAO = get_project_path(se)
 
 SE = kwat.json.read(se)
 
-# ---
+# ========================
+import plotly.io as pio
+
+pio.renderers.default = "svg"
+
+# ========================

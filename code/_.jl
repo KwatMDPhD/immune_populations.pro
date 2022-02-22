@@ -13,6 +13,3 @@ SE = LeanProject.read_setting(se)
 # Project-specific things
 
 using OnePiece
-using PyCall
-
-kwat = pyimport("kwat")

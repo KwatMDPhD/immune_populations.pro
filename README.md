@@ -1,6 +1,6 @@
-# get_immune_population.pro
+# immune_populations.pro
 
-Download and prepare immune population data for analyses :policeman:
+Download and prepare immune-population data for analyses :policeman:
 
 ## RNA-Seq Signatures Normalized by mRNA Abundance Allow Absolute Deconvolution of Human Immune Cell Types
 
