@@ -1,3 +1,8 @@
+name = "ImmunePopulations"
+uuid = "81fcaf22-abcc-4237-9ef0-5f0be8acb0d4"
+authors = ["KwatMDPhD <kwat.me@icloud.com>"]
+version = "0.1.0"
+
 [deps]
-LeanProject = "c0bda0dd-97c7-4669-9191-98531c0d3141"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 OnePiece = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
