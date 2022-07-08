@@ -1,6 +1,6 @@
 # ImmunePopulations.pro
 
-Do something :blush:
+Immune populations and their genes :blush:
 
 ---
 
