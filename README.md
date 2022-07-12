@@ -1,6 +1,6 @@
 # ImmunePopulation.pro
 
-Immune populations and their genes :blood:
+Immune populations and their genes :drop_of_blood:
 
 ---
 
